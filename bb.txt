@@ -1,1 +1,2 @@
 create bb.txt
+添加星号:
